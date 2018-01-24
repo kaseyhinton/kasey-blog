@@ -6,8 +6,6 @@ path: "/agile-team-dynamic/"
 
 This post is about my experience on a good scrum team and a bad one and how one bad egg can effect the entire team dynamic. 
 
-![if it fits i sits](./ifitfitsisits.jpg)
-
 ### Culture
 
 This is a big deal. Potential team members must be a good fit for the team. Do gangs just let anybody join? I am unsure. I would think no. Make your team exclusive!
@@ -25,4 +23,4 @@ I imagine it is difficult for people outside of the agile world to understand wh
 > 
 -Max Kanat-Alexander [Read More On Code Simplicity](http://www.codesimplicity.com/post/kindness-and-code/#more-1673)
 
-> kaseyjameshinton@gmail.com
+**kaseyjameshinton@gmail.com**

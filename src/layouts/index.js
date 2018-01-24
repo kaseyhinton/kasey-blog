@@ -1,8 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import { Container } from 'react-responsive-grid'
-
-import { rhythm, scale } from '../utils/typography'
+import "prismjs/themes/prism-solarizedlight.css";
+import "./index.css";
+import { rhythm, scale } from '../utils/typography';
 
 class Template extends React.Component {
   render() {
@@ -31,7 +32,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Generic Software Blog
+            KASEY HINTON
           </Link>
         </h1>
       )
@@ -39,9 +40,10 @@ class Template extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: 'Montserrat, sans-serif',
+            fontFamily: 'Segoe UI, sans-serif',
             marginTop: 0,
-            marginBottom: rhythm(-1),
+            marginLeft: rhythm(.05),
+            marginBottom: rhythm(-1.4),
           }}
         >
           <Link
@@ -52,7 +54,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Generic Software Blog
+         KASEY HINTON
           </Link>
         </h3>
       )

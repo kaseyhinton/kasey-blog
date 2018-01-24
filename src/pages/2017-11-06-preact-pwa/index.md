@@ -59,4 +59,4 @@ Hell to the yes. After using Polymer and Preact I will say that I am positive I 
 Thanks for reading.
 Please feel free to check out my app and hit me up with any questions!
 
-> kaseyjameshinton@gmail.com
+**kaseyjameshinton@gmail.com**

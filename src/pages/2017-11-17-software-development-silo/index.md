@@ -4,9 +4,7 @@ date: "2017-11-17"
 path: "/software-development-silo/"
 ---
  
-![Not sure if lmao or smh meme](./not-sure-if-lmao-or-smh-meme.jpg)
-
-#### Divide and Conquer Without the Conquer
+### Divide and Conquer Without the Conquer
 
 Recently we inherited some technical debt at the company I work for. I was researching to determine whether or not it would be viable to keep the current solution or
 if we should rewrite it completely. We had a team completely removed from our company-wide policies and procedures when it comes to programming. They were
@@ -20,4 +18,4 @@ immune to process and it hurts. Not only did they build an application in a tech
 
 Developers need to be held accountable for their work. When developing in a silo things will always be missed or poorly engineered. This is why we preach agile development. If you have a team or persons that developed a project like this do not drop it on one of your good teams. That is a surefire way to kill team morale. Cut your losses and let real engineers solve your problems.
 
-> kaseyjameshinton@gmail.com
+**kaseyjameshinton@gmail.com**

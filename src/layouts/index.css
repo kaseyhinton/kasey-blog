@@ -1,0 +1,57 @@
+::selection {
+    background: #EAEAEA !important;
+}
+
+.gatsby-highlight {
+    background-color: #FAFAFA;
+    border-radius: 0;
+    margin: 0.5em 0;
+    padding: 1em;
+    overflow: auto;
+}
+
+.gatsby-highlight::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+.gatsby-highlight::-webkit-scrollbar-thumb {
+    background: #9E9E9E;
+}
+
+.gatsby-highlight::-webkit-scrollbar-track {
+    background: #EAEAEA;
+    border-radius: 0 0 4px 4px;
+}
+
+.gatsby-highlight pre[class*="language-"] {
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    overflow: initial;
+    float: left;
+    min-width: 100%;
+    color: #757575;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted,
+.token.regex,
+.token.important,
+.token.variable {
+    color: #AD974F;
+}
+
+svg {
+    fill: #AD974F;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 4px;
+    margin-left: 4px;
+}
