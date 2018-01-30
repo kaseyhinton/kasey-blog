@@ -1,10 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Generic Software Blog",
+    title: "Kasey Hinton's Software Blog",
     author: "Kasey Hinton",
   },
-  plugins: [
-    {
+  plugins: [{
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/pages`,
@@ -14,8 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [
-          {
+        plugins: [{
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,

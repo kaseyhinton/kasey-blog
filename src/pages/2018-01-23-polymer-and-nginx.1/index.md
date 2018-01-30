@@ -1,11 +1,9 @@
 ---
 title: Polymer & Nginx 
 date: "2018-01-23"
-path: "/polymer-on-nginx/"
+path: "/polymer-and-nginx/"
 ---
  
-<!-- ![nginx](./nginx.png) -->
-
 ### VPS
 
 I wanted to write up a little something for people out there who are interested in using NGINX as their http server with Polymer applications. The first step is to get a server! I personally use 
