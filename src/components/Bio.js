@@ -26,7 +26,7 @@ class Bio extends React.Component {
         }}/>
         <p>
           Written by <strong>Kasey Hinton</strong>.<br/>
-          Software Engineer in Cedar City, Utah.
+          Software Engineer at <a href="https://thetechnicalreview.com" >The Technical Review</a> in Cedar City, Utah.
           <a title="github.com" href="https://github.com/kaseyhinton">
             <svg viewBox="0 0 24 24">
               <path
